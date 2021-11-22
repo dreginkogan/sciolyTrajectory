@@ -5,3 +5,6 @@ Device for Science Olympiads trajectory event
 
 -Science Olympiad Division C 2022 Rules Manual
 
+# catapult diagram
+
+## piss
