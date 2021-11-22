@@ -29,6 +29,6 @@ This part of the device consists of a horizontal piece of aluminum extrusion mou
 
 ![image](https://user-images.githubusercontent.com/75654428/142805388-74ab831a-b54e-42fc-a35e-8693321bffdf.png)
 
-The bucket consists of a 3D printed shuttle that allows for repositioning of the bucket 
+The bucket consists of a 3D printed shuttle and a shallow plastic cup. The projectiles fired from the catapult will be placed in the plastic cup, which in itself is attached to the shuttle using hot glue. The bucket is not restricted to one position; the shuttle can be moved freely along the length of the "long half" of the catapult arm. It can be secured in a specific position using a machine screw and T-nut. 
 
 
