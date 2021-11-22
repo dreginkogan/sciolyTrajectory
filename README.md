@@ -7,32 +7,31 @@ Device for Science Olympiads trajectory event
 
 # assembly
 
+The catapult and its respective components were designed by me using Autodesk Fusion 360.
+
+(render image)
+
+All the blue parts in the image are 3D printed, while the metallic-looking components are metal parts purchased from online. The black components in the image are rubber, and the clear one is a cheap, shallow plastic cup.
+
+The device is assembled by first constructing its subassemblies. The subassemblies are the base, tower, and the arm. Once these are completed, they can be joined together, creating the catapult. As a launch mechanism, an additional aluminum corner bracket can be attached to the base of the device, which allows for a metal rod to be driven through it and the aluminum extrusion of the arm, temporarily cocking it back.
 
 ### Base corner connector
-![image](https://user-images.githubusercontent.com/75654428/142803258-a96a755f-a2c2-42de-8757-721ca99fef48.png)
 
-This component holds the aluminum extrusions in the base together, and also allows for rubber to be attached underneath it. The purpose of the latter is to increase the resistance of the device against recoil during firing. The component features holes that can be used for securing aluminum extrusions using machine screws and T-nuts.
+The base corner connector holds the aluminum extrusions in the base together. It also has rubber attached to its bottom, which helps increase resistance against recoil during firing.
 
-### thingamajig
+### unnamed horizontal bar
 
-![image](https://user-images.githubusercontent.com/75654428/142804717-2d2ff63b-6f13-4388-8f41-4313ab278f5c.png)
-
-This part of the device consists of a horizontal piece of aluminum extrusion mounted to the "long extrusions" of the tower on each end. This component serves as an anchoring point for the bungee cords.
-
-### Catapult arm
-
-![image](https://user-images.githubusercontent.com/75654428/142805877-e0849610-b22c-4fef-b161-879f9adaec75.png)
-
-The catapult arm rotates along with the threaded rod that is droven right through it. This rod subdivides the arm into two sections: the "short" and "long" halves. 
-On the short half are two aluminum corner brackets. These brackets are points where the bungee cords attach, allowing for the firing of the device. 
-On the long half of the catapult arm is the bucket, which consists of a 3D printed shuttle and a shallow plastic cup. The projectiles fired from the catapult will be placed in the plastic cup, which is attached to the shuttle using hot glue. The bucket is not restricted to one position; the shuttle can be moved freely along the length of the "long half" of the catapult arm and secured in a specific position using a machine screw and a T-nut. 
-
-This arm can be attached to the rest of the catapult by inserting the ends of the axle into the bearings of the "elbows" of the tower.
+This is a horizontal bar within the tower subassembly. It functions as a point of attachment for bungee cords, and is also the farthest position that the arm can be pulled back to.
 
 ### Tower
 
-![image](https://user-images.githubusercontent.com/75654428/142806884-2cfbd9db-43fb-4aa3-ad59-319d5cb5fb09.png)
+The tower is a "triangular" construction consisting of 3D printed brackets, aluminum brackets, aluminum extrusions, and bearings. It's overall purpose is to serve as an attachment point for the arm, which is elevated off the ground tso that it doesn't touch the floor.
 
-The tower is the elevated portion of the catapult. It includes two "elbow" brackets, which serve as attachment points for the arm. 
+### Catapult arm
 
-The 4 longest aluminum extrusions within the tower have brackets at their ends, which allow for the assembly to be attached to the base.
+The catapult arm does the "throwing" in the catapult. It has an aluminum rod driven through it, that attached to bearings within the elbow joints of the tower.
+On one end of the catapult are aluminum brackets, which serve as attachment points for bungee cords. On the other end of the arm, is a bucket whose position can be adjusted for different launch distances.
+
+### Aluminum extrusions
+
+Aluminum extrusions were used as a material within the catapult because of their strength, relatively low weight, and versatility from T-slots. They were joined together using aluminum and 3D printed brackets.
