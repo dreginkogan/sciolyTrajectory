@@ -25,7 +25,7 @@ This is a horizontal bar within the tower subassembly. It functions as a point o
 
 ### Tower
 
-The tower is a "triangular" construction consisting of 3D printed brackets, aluminum brackets, aluminum extrusions, and bearings. It's overall purpose is to serve as an attachment point for the arm, which is elevated off the ground tso that it doesn't touch the floor.
+The tower is a "triangular" construction consisting of 3D printed brackets, aluminum brackets, aluminum extrusions, and bearings. It's overall purpose is to serve as an attachment point for the arm, which is elevated off the ground tso that it doesn't touch the floor while firing.
 
 ### Catapult arm
 
