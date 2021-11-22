@@ -17,4 +17,18 @@ This component holds the aluminum extrusions in the base together, and also allo
 
 ![image](https://user-images.githubusercontent.com/75654428/142803935-485f3e01-5064-4f16-8b59-0bf48f11adf9.png)
 
-This feature of the device consists of two aluminum corner brackets that attach to the "short half" of the catapult arm. The purpose of these brackets is to serve as anchor points for the bungee cords, which can be restrained on one end here.
+This part of the device consists of two aluminum corner brackets that attach to the "short half" of the catapult arm. These brackets are the points where the bungee cords attach, allowing for firing of the device.
+
+### other thingamajig
+
+![image](https://user-images.githubusercontent.com/75654428/142804717-2d2ff63b-6f13-4388-8f41-4313ab278f5c.png)
+
+This part of the device consists of a horizontal piece of aluminum extrusion mounted to the "long extrusions" of the tower on each end. This component serves as an anchoring point for the bungee cords.
+
+### Bucket
+
+![image](https://user-images.githubusercontent.com/75654428/142805388-74ab831a-b54e-42fc-a35e-8693321bffdf.png)
+
+The bucket consists of a 3D printed shuttle that allows for repositioning of the bucket 
+
+
