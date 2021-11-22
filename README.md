@@ -29,4 +29,10 @@ On the long half of the catapult arm is the bucket, which consists of a 3D print
 
 This arm can be attached to the rest of the catapult by inserting the ends of the axle into the bearings of the "elbows" of the tower.
 
+### Tower
 
+![image](https://user-images.githubusercontent.com/75654428/142806884-2cfbd9db-43fb-4aa3-ad59-319d5cb5fb09.png)
+
+The tower is the elevated portion of the catapult. It includes two "elbow" brackets, which serve as attachment points for the arm. 
+
+The 4 longest aluminum extrusions within the tower have brackets at their ends, which allow for the assembly to be attached to the base.
