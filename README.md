@@ -23,7 +23,7 @@ This part of the device consists of a horizontal piece of aluminum extrusion mou
 
 ![image](https://user-images.githubusercontent.com/75654428/142805877-e0849610-b22c-4fef-b161-879f9adaec75.png)
 
-The catapult arm rotates along with the threaded rod that is droven right through it. This rod seperates the arm into two sections: the "short" and "long" halves. 
+The catapult arm rotates along with the threaded rod that is droven right through it. This rod subdivides the arm into two sections: the "short" and "long" halves. 
 On the short half are two aluminum corner brackets. These brackets are points where the bungee cords attach, allowing for the firing of the device. 
 On the long half of the catapult arm is the bucket, which consists of a 3D printed shuttle and a shallow plastic cup. The projectiles fired from the catapult will be placed in the plastic cup, which is attached to the shuttle using hot glue. The bucket is not restricted to one position; the shuttle can be moved freely along the length of the "long half" of the catapult arm and secured in a specific position using a machine screw and a T-nut. 
 
