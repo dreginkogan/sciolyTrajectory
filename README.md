@@ -31,4 +31,11 @@ This part of the device consists of a horizontal piece of aluminum extrusion mou
 
 The bucket consists of a 3D printed shuttle and a shallow plastic cup. The projectiles fired from the catapult will be placed in the plastic cup, which in itself is attached to the shuttle using hot glue. The bucket is not restricted to one position; the shuttle can be moved freely along the length of the "long half" of the catapult arm. It can be secured in a specific position using a machine screw and T-nut. 
 
+### Catapult arm
+
+![image](https://user-images.githubusercontent.com/75654428/142805877-e0849610-b22c-4fef-b161-879f9adaec75.png)
+
+The catapult arm rotates along with the threaded rod that is droven right through it. This rod seperates the arm into two sections: the "short" and "long" halves. 
+This arm can be attached to the rest of the catapult by inserting the ends of the axle into the bearings of the "elbows" of the tower.
+
 
