@@ -7,9 +7,7 @@ Device for Science Olympiads trajectory event
 
 # assembly
 
-The catapult and its respective components were designed by me using Autodesk Fusion 360.
-
-(render image)
+![image](https://user-images.githubusercontent.com/75654428/147851971-1cc5316f-4473-4543-a86a-a0c5ad4f8c33.png)
 
 All the blue parts in the image are 3D printed, while the metallic-looking components are metal parts purchased from online. The black components in the image are rubber, and the clear one is a cheap, shallow plastic cup.
 
