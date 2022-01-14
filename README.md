@@ -9,7 +9,7 @@ Device for Science Olympiads trajectory event
 
 ![image](https://user-images.githubusercontent.com/75654428/147851971-1cc5316f-4473-4543-a86a-a0c5ad4f8c33.png)
 
-All the blue parts in the image are 3D printed, while the metallic-looking components are metal parts purchased from online. The black components in the image are rubber, and the clear one is a cheap, shallow plastic cup.
+All the blue parts in the image are 3D printed, while the metallic-looking components are metal parts purchased from online. The black components in the image are rubber.
 
 The device is assembled by first constructing its subassemblies. The subassemblies are the base, tower, and the arm. Once these are completed, they can be joined together, creating the catapult. As a launch mechanism, an additional aluminum corner bracket can be attached to the base of the device, which allows for a metal rod to be driven through it and the aluminum extrusion of the arm, temporarily cocking it back.
 
