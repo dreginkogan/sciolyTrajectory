@@ -7,4 +7,6 @@ Device for Science Olympiads trajectory event
 
 # assembly
 
-![image](https://user-images.githubusercontent.com/75654428/155629040-1b649b54-1064-42c4-a580-cf61856a38b9.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75654428/155629564-0b8b3d94-4dbf-45b7-a19a-313d31785cd2.png" />
+</p>
