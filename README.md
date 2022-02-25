@@ -7,7 +7,7 @@ Device for Science Olympiads trajectory event
 
 # assembly
 
-![image](https://user-images.githubusercontent.com/75654428/147851971-1cc5316f-4473-4543-a86a-a0c5ad4f8c33.png)
+![image](https://user-images.githubusercontent.com/75654428/155629040-1b649b54-1064-42c4-a580-cf61856a38b9.png)
 
 All the blue parts in the image are 3D printed, while the metallic-looking components are metal parts purchased from online. The black components in the image are rubber.
 
